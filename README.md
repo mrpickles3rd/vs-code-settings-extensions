@@ -1,7 +1,7 @@
 # vs-code-settings-extensions
 A backup of my setting and extensions for VS-Code
 
-#### Exstentions:
+**Exstentions:**
 * Babel ES6/ES7 -> May not be needed.
 * Beautify -> May not be needed.
 * ESLint
@@ -13,7 +13,7 @@ A backup of my setting and extensions for VS-Code
 * npm Intellisense
 * TODO Highlight
 
-#### Setting
+**Settings:**
 ```
 {
   "files.autoSave": "onFocusChange",
