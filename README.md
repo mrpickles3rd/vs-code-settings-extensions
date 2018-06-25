@@ -16,11 +16,12 @@ A backup of my setting and extensions for VS-Code
 **Settings:**
 ```
 {
+  "telemetry.enableTelemetry": false,
   "files.autoSave": "onFocusChange",
   "editor.tabSize": 2,
   "editor.fontSize": 14,
   "window.zoomLevel": 1,
-  "files.trimTrailingWhitespace": true,
+  //"files.trimTrailingWhitespace": true,
   "files.eol": "\n",
   "cSpell.words": [
     "plusplus",
@@ -28,7 +29,10 @@ A backup of my setting and extensions for VS-Code
     "linebreak",
     "Truthy",
     "eslintignore",
-    "todohighlight"
+    "todohighlight",
+    "vals",
+    "clonedeep",
+    "Opps"
   ],
   "search.exclude": {
     "**/node_modules": true,
@@ -39,4 +43,5 @@ A backup of my setting and extensions for VS-Code
   },
   "todohighlight.isCaseSensitive": false
 }
+
 ```
