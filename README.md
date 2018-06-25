@@ -21,7 +21,7 @@ A backup of my setting and extensions for VS-Code
   "editor.tabSize": 2,
   "editor.fontSize": 14,
   "window.zoomLevel": 1,
-  //"files.trimTrailingWhitespace": true,
+  "files.trimTrailingWhitespace": true,
   "files.eol": "\n",
   "cSpell.words": [
     "plusplus",
